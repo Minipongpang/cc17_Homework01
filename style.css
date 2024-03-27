@@ -1,0 +1,50 @@
+.navbar {
+    /* background-color: rgb(219, 219, 219); */
+    list-style-type: none;
+    margin: 1px 350px;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    padding: 8px;
+    /* border: 1px solid rgb(230, 230, 230); */
+    border-radius: 40px;
+
+}
+
+.liNavbar {
+    background-color: rgb(232, 231, 231);
+    padding: 8px 6px 8px 6px;
+    border-radius: 40px;
+    color: black;
+}
+
+.contact {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 2em 200px 2em 0px;
+    padding: 2em;
+}
+
+.table-edu {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    width: 100%;
+}
+.table-edu td, .table-edu th{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+.table-work {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    width: 100%;
+}
+.table-work td, .table-edu th{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+.allbody{padding: 8px 32px;}
